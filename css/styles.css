@@ -600,6 +600,11 @@ html {
         width: 100%;
     }
 
+    .coin {
+        -webkit-animation: none;
+        animation: none;
+    }
+
     .nav__item {
         width: 100%;
         display: block;
