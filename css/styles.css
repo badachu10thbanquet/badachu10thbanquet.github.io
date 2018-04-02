@@ -385,7 +385,6 @@ nav {
     transform: translateY(0);
     -webkit-animation: floating 10s ease-in-out infinite;
     animation: floating 10s ease-in-out infinite;
-    z-index: -1;
 }
 
 .tickets .right {
@@ -566,7 +565,7 @@ html {
     }
 
     .tickets .right {
-        min-height: 60vh;
+        min-height: 80vh;
     }
 
     .embed {
